@@ -1,6 +1,6 @@
 
 <script src="{{elixir('js/app.js')}}"></script>
-<script src="{{elixir('js/vue.js')}}"></script>
+<script src="{{asset('js/vue.js')}}"></script>
 
 
 <!--

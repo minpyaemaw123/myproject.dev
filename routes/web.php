@@ -63,6 +63,8 @@ Route::resource('marketing-image','MarketingImageController');
 
 Route::get('api/widget-data','ApiController@widgetData');
 
+Route::get('api/marketing-image-data','ApiController@marketingImageData');
+
 
 
 
